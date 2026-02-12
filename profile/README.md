@@ -1,40 +1,37 @@
-# Typend
+# Typend Labs
 
-**Independent Software House & Emerging Brand Foundry**
-
----
-
-### Overview
-Typend builds ideas that endure — thoughtful, crafted, and scalable.  
-From engineering to storytelling, we unite craftsmanship and vision across digital creation.
-
-We’re not just building products; we’re shaping lasting digital legacies through clarity, beauty, and purpose.
+Exploring software, AI, tools, and ideas.
 
 ---
 
-### Vision
-To craft enduring digital legacies — where code, design, and story converge.  
-We believe software is an art form, brands are vessels of meaning, and creation done with integrity endures beyond trends.
+## Overview
+
+Typend Labs is a space for thoughtful engineering and creative work.
+
+From engineering to storytelling, where code, design, and story converge, built with craftsmanship, clarity, and purpose.
 
 ---
 
-### Mission
-To build and nurture digital products, brands, and studios that reflect craftsmanship, clarity, and purpose.  
-Typend exists to give ideas permanence — transforming sparks of inspiration into independent, living systems that serve people and stand the test of time.
+## Vision
+
+We believe software is an art form, shaped with intention and built to stand the test of time.
 
 ---
 
-### Twitter / X
-> Independent software house and brand foundry — uniting engineering and storytelling to build ideas that endure.  
-[@typendfoundry](https://x.com/typendfoundry)
+## Mission
+
+To build systems that serve people well.
 
 ---
 
-### Slogan
-**Built to endure.**
+## Presence
+
+X / Twitter  
+https://x.com/typendlabs
 
 ---
 
-### License
-© Typend. All rights reserved.  
-Crafted with clarity and purpose.
+## Slogan
+Built to endure.
+
+© Typend Labs
