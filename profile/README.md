@@ -1,20 +1,30 @@
-# Typend Labs
+# Typend
 
-Exploring software, AI, tools, and ideas.
+Shaping software with purpose.
 
 ---
 
 ## Overview
 
-Typend Labs is a space for thoughtful engineering and creative work.
+Typend is an independent software studio focused on thoughtful engineering and creative work.
 
-From engineering to storytelling, where code, design, and story converge, built with craftsmanship, clarity, and purpose.
+Code, design, and story come together through craftsmanship, clarity, and care.
+
+---
+
+## What We Do
+
+Typend builds and supports a growing set of products, tools, and brands.
+
+Some are internal.  
+Some are developed through Devmattic.  
+All are shaped with intention and brought to completion.
 
 ---
 
 ## Vision
 
-We believe software is an art form, shaped with intention and built to stand the test of time.
+To shape meaningful things and help others move forward.
 
 ---
 
@@ -32,6 +42,7 @@ https://x.com/typendlabs
 ---
 
 ## Slogan
-Built to endure.
 
-© Typend Labs
+Built with purpose.
+
+© Typend
