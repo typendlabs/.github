@@ -1,48 +1,41 @@
 # Typend
 
-Shaping software with purpose.
+Building software, brands, and ventures with purpose.
 
 ---
 
 ## Overview
 
-Typend is an independent software studio focused on thoughtful engineering and creative work.
+Typend is an independent company dedicated to building thoughtful software, enduring brands, and meaningful creative work.
 
-Code, design, and story come together through craftsmanship, clarity, and care.
-
----
-
-## What We Do
-
-Typend builds and supports a growing set of products, tools, and brands.
-
-Some are internal.  
-Some are developed through Devmattic.  
-All are shaped with intention and brought to completion.
+Every project is shaped with purpose, crafted with care, and designed to endure.
 
 ---
 
-## Vision
+## Areas of Focus
 
-To shape meaningful things and help others move forward.
-
----
-
-## Mission
-
-To build systems that serve people well.
+- Software
+- Brands
+- Creative
+- Ventures
 
 ---
 
-## Presence
+## Philosophy
+
+Build with purpose.
+
+Honor the details.
+
+Create to endure.
+
+Trust the process.
+
+---
+
+## Learn More
+
+https://typend.com
 
 X / Twitter  
 https://x.com/typendlabs
-
----
-
-## Slogan
-
-Built with purpose.
-
-© Typend
