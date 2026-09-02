@@ -38,4 +38,4 @@ Trust the process.
 https://typend.com
 
 X / Twitter  
-https://x.com/typendlabs
+https://x.com/typendco
